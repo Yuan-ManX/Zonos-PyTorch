@@ -1,7 +1,7 @@
 # Zonos PyTorch
 
 <p align="center">
-  <img src="Zonos.png" alt="Zonos" style="display:block; margin:auto; width:650px;" />
+  <img src="Zonos.png" alt="Zonos" style="display:block; margin:auto; width:850px;" />
 </p>
 
 PyTorch implementation of Zonos.
